@@ -1,5 +1,5 @@
 # installer
-A one-stop installer purely based on conda-forge for Python & R.
+A one-stop installer purely based on conda-forge for [Python](https://www.python.org/) (with [Jupyter(Lab)](https://jupyter.org/)) & [R](https://www.r-project.org/).
 
 Whereas [miniforge](https://github.com/conda-forge/miniforge) installs a (very) basic `base` environment, and leaves it up to the user to do some more command line magic to get things going, this installer installs:
 
