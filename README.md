@@ -20,3 +20,8 @@ Supported OS-es:
   - macOS
     - intel
     - aarch64
+
+Additional benefits:
+  - The installer can install for a user or system-wide.
+  - Windows & macOS installers are graphical
+  
