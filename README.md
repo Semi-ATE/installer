@@ -12,9 +12,14 @@ With this installer even Joe Average can install everything the way it should be
 
 # Installation
 
-<img src="/documentation/pictures/UnixDownloadButton.png" style="float: left; width: 40%; margin-right: 1%; margin-bottom: 0.5em;" >
-<img src="/documentation/pictures/WindowsDownloadButton.png" style="float: left; width: 40%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
+<div class="row">
+  <div class="column">
+    <img src="/documentation/pictures/UnixDownloadButton.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/documentation/pictures/WindowsDownloadButton.png" style="width:100%">
+  </div>
+</div>
 
 # Supported OS-es:
   - Linux
