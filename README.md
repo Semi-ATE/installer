@@ -12,7 +12,9 @@ With this installer even Joe Average can install everything the way it should be
 
 # Installation
 
-![Linux & macOS](documentation/pictures/UnixDownloadButton.png)  ![Windows](documentation/pictures/WindowsDownloadButton.png)
+<img src="/documentation/pictures/UnixDownloadButton.png" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/documentation/pictures/WindowsDownloadButton.png" style="float: left; width: 49%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="clear: both;">
 
 # Supported OS-es:
   - Linux
