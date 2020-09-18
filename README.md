@@ -14,6 +14,8 @@ With this installer even Joe Average can install everything the way it should be
 
 ![Unix](documentation/pictures/UnixDownloadButton.png) ![Windows](documentation/pictures/WindowsDownloadButton.png)
 
+and then just run it!
+
 # Supported OS-es:
   - Linux
     - intel
