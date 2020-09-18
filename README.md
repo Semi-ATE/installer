@@ -8,6 +8,7 @@ Whereas [miniforge](https://github.com/conda-forge/miniforge) installs a (very) 
   3. an `anaconda` environment much like the one anaconda inc. installs in the `base` environment (woops) when using their installer(s), modified a bit, as it no longer holds spyder, but **ONLY** the spyder_kernels package.
   
 With this installer even Joe Average can install everything the way it should be without needing to know anything about [conda](https://anaconda.org/anaconda/conda)
+!
 
 Supported OS-es:
   - Linux
