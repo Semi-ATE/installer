@@ -1,0 +1,24 @@
+{% set version = os.environ.get("MINIFORGE_VERSION", "4.8.5-0") %}
+{% set name = os.environ.get("MINIFORGE_NAME", "Miniforge3") %}
+
+name: {{ name }}
+version: {{ version }}
+
+channels:
+  - https://conda.anaconda.org/conda-forge
+
+write_condarc: True
+# keep pkgs for space-saving implications for hardlinks when create new environments
+# and keep the same with Miniconda
+keep_pkgs: True
+license_file: ../LICENSE.txt
+
+specs:
+{% if name == "Miniforge3" %}
+  - python 3.8.*
+{% elif name == "Miniforge-pypy3" %}
+  - python 3.6.* *_pypy
+{% endif %}
+  - conda {{ version.split("-")[0] }}
+  - pip
+  - bzip2
