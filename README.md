@@ -28,5 +28,5 @@ Additional benefits:
 # Installation
 
 ![Linux & macOS](documentation/pictures/UnixDownloadButton.png)  
-![Windows](documentation/pictures/WuindowsDownloadButton.png)
+![Windows](documentation/pictures/WindowsDownloadButton.png)
 
