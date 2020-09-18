@@ -25,3 +25,8 @@ Additional benefits:
   - The installer can install for a user or system-wide.
   - Windows & macOS installers are graphical
   
+# Installation
+
+![Linux & macOS](documentation/pictures/UnixDownloadButton.png)  
+![Windows](documentation/pictures/WuindowsDownloadButton.png)
+
