@@ -14,10 +14,10 @@ With this installer even Joe Average can install everything the way it should be
 
 <div class="row">
   <div class="column">
-    <img src="/documentation/pictures/UnixDownloadButton.png" style="width:100%">
+    <img src="/documentation/pictures/UnixDownloadButton.png" style="width:10%">
   </div>
   <div class="column">
-    <img src="/documentation/pictures/WindowsDownloadButton.png" style="width:100%">
+    <img src="/documentation/pictures/WindowsDownloadButton.png" style="width:10%">
   </div>
 </div>
 
