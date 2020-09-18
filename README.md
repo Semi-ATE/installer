@@ -10,7 +10,11 @@ Whereas [miniforge](https://github.com/conda-forge/miniforge) installs a (very) 
 With this installer even Joe Average can install everything the way it should be without needing to know anything about [conda](https://anaconda.org/anaconda/conda)
 !
 
-Supported OS-es:
+# Installation
+
+![Linux & macOS](documentation/pictures/UnixDownloadButton.png)  ![Windows](documentation/pictures/WindowsDownloadButton.png)
+
+# Supported OS-es:
   - Linux
     - intel
     - aarch64
@@ -21,11 +25,7 @@ Supported OS-es:
     - intel
     - aarch64
 
-Additional benefits:
+# Additional benefits:
   - The installer can install for a user or system-wide.
   - Windows & macOS installers are graphical
   
-# Installation
-
-![Linux & macOS](documentation/pictures/UnixDownloadButton.png)  ![Windows](documentation/pictures/WindowsDownloadButton.png)
-
